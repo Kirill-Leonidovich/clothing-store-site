@@ -1,0 +1,22 @@
+/* fonts /////////////////////////////////////////////////////////////////////////////////////// */
+@font-face {
+    font-family: "Lobster";
+    src: url("/fonts/lobster/Lobster.eot");
+    src: url("/fonts/lobster/Lobster.eot?#iefix") format("embedded-opentype"),
+        url("/fonts/lobster/Lobster.woff") format("woff"), url("/fonts/lobster/Lobster.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Bebas-Neue";
+    src: url("/fonts/bebas-neue-thin/BebasNeuePro-Regular.eot");
+    src: url("/fonts/bebas-neue-thin/?#iefix") format("embedded-opentype"),
+        url("/fonts/bebas-neue-thin/BebasNeuePro-Regular.woff") format("woff"),
+        url("/fonts/bebas-neue-thin/BebasNeuePro-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+/* fonts /////////////////////////////////////////////////////////////////////////////////////// */
